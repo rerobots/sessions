@@ -1,0 +1,6 @@
+[book]
+authors = ["Scott C. Livingston"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Robot Rank"
