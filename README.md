@@ -1,6 +1,14 @@
 Robot Rank
 ==========
 
+
+Building The Documents
+----------------------
+
+This is built using mdBook, the source code and installation instructions of
+which can be found at https://github.com/rust-lang/mdBook
+
+
 Participating
 -------------
 
