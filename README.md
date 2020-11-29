@@ -12,6 +12,9 @@ which can be found at https://github.com/rust-lang/mdBook
 Participating
 -------------
 
+Please consider a monthly payment at https://www.patreon.com/robotrank
+to support ongoing work.
+
 All participation must follow our code of conduct, elaborated in the file
 CODE_OF_CONDUCT.md in the same directory as this README.
 
