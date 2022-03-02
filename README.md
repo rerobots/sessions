@@ -1,5 +1,5 @@
-Robot Rank
-==========
+The Robot Sessions
+==================
 
 
 Building The Documents
@@ -12,7 +12,7 @@ which can be found at https://github.com/rust-lang/mdBook
 Participating
 -------------
 
-Please consider a monthly payment at https://www.patreon.com/robotrank
+Please consider a monthly payment at https://www.patreon.com/robotsessions
 to support ongoing work.
 
 All participation must follow our code of conduct, elaborated in the file
@@ -21,9 +21,9 @@ CODE_OF_CONDUCT.md in the same directory as this README.
 ### Reporting errors, requesting features
 
 Please first check for prior reports that are similar or related in the issue
-tracker at https://github.com/rerobots/robotrank/issues
+tracker at https://github.com/rerobots/sessions/issues
 If your observations are indeed new, please [open a new issue](
-https://github.com/rerobots/robotrank/issues/new)
+https://github.com/rerobots/sessions/issues/new)
 
 ### Contributing changes or new code
 

@@ -13,8 +13,8 @@ We take an exercise-oriented approach. Part of the fun of robotics is
 
 ## Do I have to pay for this?
 
-No. The book is free and [open source](https://github.com/rerobots/robotrank),
-but we happily accept payment through [our Patreon page](https://www.patreon.com/robotrank)
+No. The book is free and [open source](https://github.com/rerobots/sessions),
+but we happily accept payment through [our Patreon page](https://www.patreon.com/robotsessions)
 to support ongoing work.
 
 Exercises in this book are performed on robots that you can access anonymously
