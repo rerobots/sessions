@@ -36,5 +36,14 @@ name. (This can be done automatically using `git commit --signoff`.)
 License
 -------
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+Code in this repository is free software, released under the Apache License, Version 2.0.
+You may obtain a copy of the License at https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+All other material is licensed under a [Creative Commons Attribution-ShareAlike 4.0
 International License](https://creativecommons.org/licenses/by-sa/4.0/).
